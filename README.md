@@ -1,9 +1,3 @@
-# 📌 Görseller
-<img src="https://media.discordapp.net/attachments/836467887928639498/892053937820147772/unknown.png">
-<img src="https://media.discordapp.net/attachments/836467887928639498/892054616253014036/unknown.png">
-<img src="https://media.discordapp.net/attachments/836467887928639498/892057281498329188/unknown.png">
-<img src="https://media.discordapp.net/attachments/836467887928639498/892065116269457469/unknown.png">
-
 # ✨ Kurulum
 ### Projeyi botunuzda kullanmak için bazı işlemler yapmanız gerekiyor. Aşağıdaki yönlendirmeleri takip ederek bunu yapabilirsiniz :
 * Herkesin bildiği gibi ilk önce bilgisayarınıza [Node JS](https://nodejs.org/tr/) ve ayarları daha rahat yapa bilmek için bir editör *(Örneğin [Visual Studio Code](https://code.visualstudio.com/))* indirmeniz gerekiyor.
@@ -35,11 +29,5 @@
 * `client.guildSettings.registration.limit` kısmına bir yetkilinin 10 dakika içinde maksimum kaç kayıt işlemi yapabileceğini belirtmelisin.
 
 📌 Diğer ayarlarıda doğru bir şekilde girerek bu kısmıda başarıyla tamamlaya bilirsiniz!
-
-# ⚡ İletişim
-### Eğer bir hatayla karşılaşıyor veya botunuzu kurmakta sorun yaşıyorsanız aşağıdaki bağlantılardan bana ulaşabilirsiniz :
-* [Discord Sunucum](https://discord.gg/MTNkXHnX3b)
-* [Ana Hesabım](https://discord.com/users/624914071984013313)
-* [Yan Hesabım](https://discord.com/users/809325505304068096)
 
 ## Önemli: Proje MIT lisansına sahiptir ve projenin dosyalarının izin alınmadan paylaşılması, satılması  veya benzeri durumlar kesinlikle yasaktır. Böyle bir durumun yaşanması sonucunda bundan sorumlu şahıs(lar)a gerekli işlemler yapılacaktır!
