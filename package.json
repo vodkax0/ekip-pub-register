@@ -1,17 +1,17 @@
 {
-  "name": "vortex-register",
+  "name": "anarchy-register",
   "version": "1.0.0",
   "description": "Gelişmiş Kayıt Botu",
-  "main": "vortex.js",
+  "main": "anarchy.js",
   "scripts": {
-    "test": "node vortex.js",
+    "test": "node anarchy.js",
     "lint": "eslint src",
     "lint:fix": "eslint src --fix",
     "prettier": "prettier --write src/**/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SeonerVorteX/discord-register-bot.git"
+    "url": "git+https://github.com/AnarchyX0/ekip-pub-register.git"
   },
   "keywords": [
     "node"
@@ -19,9 +19,9 @@
   "author": "SeonerVorteX",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SeonerVorteX/discord-register-bot/issues"
+    "url": "https://github.com/AnarchyX0/ekip-pub-register/issues"
   },
-  "homepage": "https://github.com/SeonerVorteX/discord-register-bot#readme",
+  "homepage": "https://github.com/AnarchyX0/ekip-pub-register#readme",
   "dependencies": {
     "discord.js": "^12.5.3",
     "fs": "0.0.1-security",
